@@ -1,9 +1,61 @@
-*{
-   max-width: 1240px;
-   padding-right: 50px;
-   padding-left: 50px;
+      html{
+        margin: auto;
+      }
+      
+      body {
+        font-family: 'Courier New';
+        max-width: 960px;
+        width: 100%; 
+        background-color: rgb(239, 243, 243);
+        margin: auto;
+        padding:1%
+    
+      }
+      html {
+        background-color: rgb(9, 81, 99);
+      }
+      footer{
+        text-align:center; 
+        clear:both;
+      }
 
-}
-*{
-   font-family: Georgia, 'Times New Roman', Times, serif;
-}
+      h2{
+         color: rgb(9, 81, 99);
+      }
+
+      h4{
+         color: rgb(9, 81, 99);
+      }
+
+      .btm115{
+        text-align: center;
+      }
+
+      .Main{
+        text-align: center;
+      }
+
+      .paris{
+        width: 50%;
+        height: 50%;
+        float: left;
+      }
+    
+      .Cambodia{
+        width: 50%;
+        height: 50%;
+        float: right;
+      }
+    
+      .Chicago{
+        width: 50%;
+        height: 50%;
+        float: left;
+      }
+      
+      .Bhutan{
+        width: 50%;
+        height: 50%;
+        float: right;
+      }
+      
