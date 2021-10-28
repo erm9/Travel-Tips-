@@ -1,3 +1,7 @@
+      html{
+        margin: auto;
+      }
+      
       body {
         font-family: 'Courier New';
         max-width: 960px;
