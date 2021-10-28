@@ -14,6 +14,24 @@
       html {
         background-color: rgb(9, 81, 99);
       }
+
+       nav{
+          text-align:center; /* centers the nav */
+        }
+        
+        nav ul {
+            list-style:none; /* removes the bullets */
+          }
+        nav ul li
+          {
+            display:inline-block; /* makes horizontal, but able to declare margins */
+            margin:0 2%; /* margin left-right, gets smaller as necessary */
+          }
+        nav a:hover{
+          text-decoration: none;
+        }	
+
+
       footer{
         text-align:center; 
         clear:both;
@@ -39,6 +57,7 @@
         width: 50%;
         height: 50%;
         float: left;
+        padding: 1%
       }
     
       .Cambodia{
@@ -51,6 +70,7 @@
         width: 50%;
         height: 50%;
         float: left;
+        padding: 1%
       }
       
       .Bhutan{
