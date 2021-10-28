@@ -21,3 +21,36 @@
       h4{
          color: rgb(9, 81, 99);
       }
+
+      .btm115{
+        text-align: center;
+      }
+
+      .Main{
+        text-align: center;
+      }
+
+      .paris{
+        width: 50%;
+        height: 50%;
+        float: left;
+      }
+    
+      .Cambodia{
+        width: 50%;
+        height: 50%;
+        float: right;
+      }
+    
+      .Chicago{
+        width: 50%;
+        height: 50%;
+        float: left;
+      }
+      
+      .Bhutan{
+        width: 50%;
+        height: 50%;
+        float: right;
+      }
+      
