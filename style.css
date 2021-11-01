@@ -58,10 +58,10 @@
       }
 
       .paris{
+        padding-right: 3%;
         width: 50%;
         height: 50%;
         float: left;
-        padding-right: 5%;
 
       }
     
@@ -72,10 +72,11 @@
       }
     
       .Chicago{
+        padding-right: 3%;
         width: 50%;
         height: 50%;
         float: left;
-        padding-right: 5%;
+        
 
       }
       
